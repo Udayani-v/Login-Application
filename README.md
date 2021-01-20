@@ -6,6 +6,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Run the application
+Prerequisities
+  Node - version 8 and above installed
+  Angular 6 cli installed - Run `npm install -g @angular/cli@6.0.0`
+  
+Clone the repository
+Run `npm install` to install the dependencies. 
+Run `npm start` to start the application.
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
