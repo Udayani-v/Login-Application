@@ -15,6 +15,12 @@ Clone the repository
 Run `npm install` to install the dependencies. 
 Run `npm start` to start the application.
 
+
+## Test Case
+Valid test case: 
+email - user@gmail.com
+password - password
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
