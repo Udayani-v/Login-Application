@@ -1,0 +1,9 @@
+<div class="row header">
+  <div class="">
+    <span class="headerName">Login Application</span>
+  </div>
+  <div class="" style="display: flex;margin-left: auto;">
+    <div *ngIf="showUserName" class="userName"> Welcome {{username}} </div>
+    <div *ngIf="logout" class="logout" (click)="logoutFunction()">Logout</div>
+  </div>
+</div>
